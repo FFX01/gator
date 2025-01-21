@@ -5,7 +5,7 @@ Gator is a CLI tool for managing RSS feeds. You can follow feeds, ingest posts, 
 1. Ensure you have go version >=1.23 installed.
 2. Ensure you have postgres installed and running.
 3. Install [goose](https://github.com/pressly/goose) for running migrations.
-4. Run `go install github.com/FFX01/gator`
+4. Run `go install https://github.com/FFX01/gator@latest`
 
 ## Configuration
 1. Create a file called `.gatorconfig.json` in your `$HOME` directory.
